@@ -1,0 +1,17 @@
+{
+  "num_shares": 50000,
+  "amount": 50044568.89,
+  "txn_ts": "2020-11-18 02:31:43",
+  "customer": {
+    "first_name": "Jill",
+    "last_name": "Smith",
+    "id": 1234567,
+    "email": "jsmith@gmail.com"
+  },
+  "company": {
+    "name": "ACME Corp",
+    "ticker": "ACMC",
+    "id": "ACME837275222752952",
+    "address": "Anytown USA, 333333"
+  }
+}
